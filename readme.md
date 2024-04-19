@@ -1,5 +1,5 @@
 # STOCK API
-[link](https://stockapptw-jr0g.onrender.com/)
+[Project Live Link](https://stockapptw-jr0g.onrender.com/)
 ### ERD:
 
 ![ERD](./erdStockAPI.png)
